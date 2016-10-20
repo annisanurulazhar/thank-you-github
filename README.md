@@ -506,3 +506,4 @@ Signed,
 - Utsav Mangal ([@mangalutsav](https://github.com/mangalutsav)), Developer, Undergrad at IIT Roorkee, India.
 - Ajay Rahul.P ([@ajayrahul97](https://github.com/ajayrahul97)), Developer, Electrical Engineering Undergraduate at IIT Roorkee, India.
 - Thing Thing Diputra ([@thingdiputra](https://github.com/thingdiputra)), Student, Universitas Bunda Mulia, Indonesia.
+- Annisa Nurul A ([@annisanurulazhar](https://github.com/annisanurulazhar)), Student, Bandung Institute of Technology, Indonesia.
